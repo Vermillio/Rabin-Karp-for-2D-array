@@ -1,0 +1,16 @@
+﻿  Source.cpp
+  RabinKarp.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(30): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(166): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(170): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(181): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(186): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(195): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(202): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(226): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(229): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(242): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\morga\documents\visual studio 2015\projects\2course\algo_labs\lab7\lab7\rabinkarp.cpp(245): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  lab7.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\algo_labs\lab7\x64\Debug\lab7.exe
+  lab7.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\algo_labs\lab7\x64\Debug\lab7.pdb (Partial PDB)
